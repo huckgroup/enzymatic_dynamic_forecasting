@@ -1,0 +1,12 @@
+name: enz_dynamic_forecast_env
+channels:
+  - defaults
+dependencies:
+  - python=3.13.18
+  - pip=26.2.2
+  - pandas=3.0.6
+  - numpy=2.4.6
+  - scikit-learn=1.9.1
+  - matplotlib=3.11.2
+  - seaborn=0.13.2
+  - notebook=7.6.3
